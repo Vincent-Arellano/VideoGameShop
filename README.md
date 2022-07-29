@@ -1,9 +1,9 @@
-# VideoGameShop
+# Video Game Shop
 
-Description:
-This online video game shop repository allows users to purchase video games, add rating and reviews.
+**Description:** <br/>
+This online video game shop repository allows users to purchase video games, add rating and reviews.<br/>
 
-Authors: 
-Arellano, Vincent
-Olipas, Karl Kenneth Owen
-Tuazon, Joseph
+**Authors:**<br/>
+Arellano, Vincent <br/>
+Olipas, Karl Kenneth Owen <br/>
+Tuazon, Joseph <br/>
